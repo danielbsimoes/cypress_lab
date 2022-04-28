@@ -1,0 +1,22 @@
+{
+  "name": "cypress_lab",
+  "version": "1.0.0",
+  "description": "Cypress testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbsimoes/cypress_lab.git"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielbsimoes/cypress_lab/issues"
+  },
+  "homepage": "https://github.com/danielbsimoes/cypress_lab#readme",
+  "devDependencies": {
+    "cypress": "9.6.0"
+  }
+}
