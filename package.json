@@ -4,7 +4,7 @@
   "description": "Cypress testing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cy:open": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/danielbsimoes/cypress_lab#readme",
   "devDependencies": {
-    "cypress": "9.6.0"
+    "cypress": "9.6.0",
+    "typescript": "4.6.4"
   }
 }
